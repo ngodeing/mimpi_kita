@@ -70,7 +70,7 @@ class _HistoryWidgetState extends State<HistoryWidget> {
                                 .override(
                                   fontFamily: 'Readex Pro',
                                   color: Colors.black,
-                                  fontSize: 32.0,
+                                  fontSize: 28.0,
                                   letterSpacing: 0.0,
                                   fontWeight: FontWeight.bold,
                                 ),

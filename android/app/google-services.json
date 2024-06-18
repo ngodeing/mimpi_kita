@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "730002779539",
+    "project_id": "project-mimpi-kita-kzqczv",
+    "storage_bucket": "project-mimpi-kita-kzqczv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730002779539:android:db6e0033c199164777cc66",
+        "android_client_info": {
+          "package_name": "com.mycompany.mimpikita"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACrHHRB4cjmElfpTtlTO_23Yx-fQpTk44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

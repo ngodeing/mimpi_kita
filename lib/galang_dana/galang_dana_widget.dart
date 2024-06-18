@@ -135,7 +135,7 @@ class _GalangDanaWidgetState extends State<GalangDanaWidget> {
                               padding: EdgeInsetsDirectional.fromSTEB(
                                   0.0, 16.0, 0.0, 0.0),
                               child: Text(
-                                'Judul Penggalangan Dana',
+                                'Judul Penggalangan Dana:',
                                 style: FlutterFlowTheme.of(context)
                                     .bodyMedium
                                     .override(
@@ -213,7 +213,7 @@ class _GalangDanaWidgetState extends State<GalangDanaWidget> {
                               padding: EdgeInsetsDirectional.fromSTEB(
                                   0.0, 16.0, 0.0, 0.0),
                               child: Text(
-                                'NIK',
+                                'NIK:',
                                 style: FlutterFlowTheme.of(context)
                                     .bodyMedium
                                     .override(
@@ -292,7 +292,7 @@ class _GalangDanaWidgetState extends State<GalangDanaWidget> {
                               padding: EdgeInsetsDirectional.fromSTEB(
                                   0.0, 16.0, 0.0, 0.0),
                               child: Text(
-                                'No. Telp',
+                                'No. Telp:',
                                 style: FlutterFlowTheme.of(context)
                                     .bodyMedium
                                     .override(
@@ -371,7 +371,7 @@ class _GalangDanaWidgetState extends State<GalangDanaWidget> {
                               padding: EdgeInsetsDirectional.fromSTEB(
                                   0.0, 16.0, 0.0, 0.0),
                               child: Text(
-                                'No. Rekening',
+                                'No. Rekening:',
                                 style: FlutterFlowTheme.of(context)
                                     .bodyMedium
                                     .override(
@@ -450,7 +450,7 @@ class _GalangDanaWidgetState extends State<GalangDanaWidget> {
                               padding: EdgeInsetsDirectional.fromSTEB(
                                   0.0, 16.0, 0.0, 0.0),
                               child: Text(
-                                'Nama Pemilik Rekening',
+                                'Nama Pemilik Rekening:',
                                 style: FlutterFlowTheme.of(context)
                                     .bodyMedium
                                     .override(
@@ -528,7 +528,7 @@ class _GalangDanaWidgetState extends State<GalangDanaWidget> {
                               padding: EdgeInsetsDirectional.fromSTEB(
                                   0.0, 16.0, 0.0, 0.0),
                               child: Text(
-                                'Deskripsi Penggalangan',
+                                'Deskripsi Penggalangan:',
                                 style: FlutterFlowTheme.of(context)
                                     .bodyMedium
                                     .override(
@@ -608,7 +608,7 @@ class _GalangDanaWidgetState extends State<GalangDanaWidget> {
                               padding: EdgeInsetsDirectional.fromSTEB(
                                   0.0, 16.0, 0.0, 0.0),
                               child: Text(
-                                'Target Donasi',
+                                'Target Donasi:',
                                 style: FlutterFlowTheme.of(context)
                                     .bodyMedium
                                     .override(
@@ -687,7 +687,7 @@ class _GalangDanaWidgetState extends State<GalangDanaWidget> {
                               padding: EdgeInsetsDirectional.fromSTEB(
                                   0.0, 16.0, 0.0, 0.0),
                               child: Text(
-                                'Lampiran',
+                                'Lampiran:',
                                 style: FlutterFlowTheme.of(context)
                                     .bodyMedium
                                     .override(
@@ -815,7 +815,7 @@ class _GalangDanaWidgetState extends State<GalangDanaWidget> {
                               padding: EdgeInsetsDirectional.fromSTEB(
                                   0.0, 16.0, 0.0, 0.0),
                               child: Text(
-                                'Batas Donasi',
+                                'Batas Donasi:',
                                 style: FlutterFlowTheme.of(context)
                                     .bodyMedium
                                     .override(

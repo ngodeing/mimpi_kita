@@ -72,7 +72,7 @@ class _RiwayatDonaturWidgetState extends State<RiwayatDonaturWidget> {
                               FlutterFlowTheme.of(context).bodyMedium.override(
                                     fontFamily: 'Readex Pro',
                                     color: Colors.black,
-                                    fontSize: 32.0,
+                                    fontSize: 28.0,
                                     letterSpacing: 0.0,
                                     fontWeight: FontWeight.bold,
                                   ),
@@ -252,7 +252,7 @@ class _RiwayatDonaturWidgetState extends State<RiwayatDonaturWidget> {
                                                             },
                                                           ),
                                                           Text(
-                                                            ' Donasi Senilai',
+                                                            'Donasi Senilai',
                                                             style: FlutterFlowTheme
                                                                     .of(context)
                                                                 .bodyMedium

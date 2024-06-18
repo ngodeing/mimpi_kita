@@ -422,7 +422,7 @@ class _ProfileWidgetState extends State<ProfileWidget> {
                                                             .fromSTEB(10.0, 8.0,
                                                                 5.0, 5.0),
                                                     child: Text(
-                                                      'Terkumpul',
+                                                      'Dana Terkumpul',
                                                       style: FlutterFlowTheme
                                                               .of(context)
                                                           .bodyMedium

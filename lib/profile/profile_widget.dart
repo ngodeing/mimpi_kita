@@ -156,8 +156,8 @@ class _ProfileWidgetState extends State<ProfileWidget> {
                                                       },
                                                       text: 'Edit Akun',
                                                       options: FFButtonOptions(
-                                                        width: 150.0,
-                                                        height: 40.0,
+                                                        width: 130.0,
+                                                        height: 20.0,
                                                         padding:
                                                             EdgeInsetsDirectional
                                                                 .fromSTEB(
@@ -196,7 +196,7 @@ class _ProfileWidgetState extends State<ProfileWidget> {
                                                         ),
                                                         borderRadius:
                                                             BorderRadius
-                                                                .circular(8.0),
+                                                                .circular(9.0),
                                                       ),
                                                     ),
                                                   ),
@@ -225,10 +225,10 @@ class _ProfileWidgetState extends State<ProfileWidget> {
                                                             'Auth2',
                                                             context.mounted);
                                                       },
-                                                      text: 'Keluar Akun',
+                                                      text: 'Logout',
                                                       options: FFButtonOptions(
-                                                        width: 150.0,
-                                                        height: 40.0,
+                                                        width: 130.0,
+                                                        height: 20.0,
                                                         padding:
                                                             EdgeInsetsDirectional
                                                                 .fromSTEB(
@@ -267,7 +267,7 @@ class _ProfileWidgetState extends State<ProfileWidget> {
                                                         ),
                                                         borderRadius:
                                                             BorderRadius
-                                                                .circular(8.0),
+                                                                .circular(9.0),
                                                       ),
                                                     ),
                                                   ),

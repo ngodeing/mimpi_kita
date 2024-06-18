@@ -225,7 +225,7 @@ class _ProfileWidgetState extends State<ProfileWidget> {
                                                             'Auth2',
                                                             context.mounted);
                                                       },
-                                                      text: 'Keluar Akun',
+                                                      text: 'Keluar',
                                                       options: FFButtonOptions(
                                                         width: 150.0,
                                                         height: 40.0,

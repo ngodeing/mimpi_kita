@@ -340,7 +340,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                                                           5.0),
                                                                       child:
                                                                           Text(
-                                                                        'Terkumpul',
+                                                                        'Dana Terkumpul',
                                                                         style: FlutterFlowTheme.of(context)
                                                                             .bodyMedium
                                                                             .override(
@@ -685,7 +685,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                                                           5.0),
                                                                       child:
                                                                           Text(
-                                                                        'Terkumpul',
+                                                                        'Dana Terkumpul',
                                                                         style: FlutterFlowTheme.of(context)
                                                                             .bodyMedium
                                                                             .override(

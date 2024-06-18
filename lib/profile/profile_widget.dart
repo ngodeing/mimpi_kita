@@ -110,7 +110,7 @@ class _ProfileWidgetState extends State<ProfileWidget> {
                                                   .override(
                                                     fontFamily: 'Readex Pro',
                                                     color: Colors.black,
-                                                    fontSize: 20.0,
+                                                    fontSize: 19.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight: FontWeight.bold,
                                                   ),

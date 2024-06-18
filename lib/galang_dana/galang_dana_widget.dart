@@ -117,7 +117,7 @@ class _GalangDanaWidgetState extends State<GalangDanaWidget> {
                               padding: EdgeInsetsDirectional.fromSTEB(
                                   0.0, 0.0, 0.0, 20.0),
                               child: Text(
-                                'Ayo Galang Dana',
+                                'Galang Dana Sekarang!',
                                 style: FlutterFlowTheme.of(context)
                                     .bodyMedium
                                     .override(
@@ -135,7 +135,7 @@ class _GalangDanaWidgetState extends State<GalangDanaWidget> {
                               padding: EdgeInsetsDirectional.fromSTEB(
                                   0.0, 16.0, 0.0, 0.0),
                               child: Text(
-                                'Judul Penggalangan Dana',
+                                'Judul Penggalangan Dana:',
                                 style: FlutterFlowTheme.of(context)
                                     .bodyMedium
                                     .override(
@@ -172,28 +172,28 @@ class _GalangDanaWidgetState extends State<GalangDanaWidget> {
                                         FlutterFlowTheme.of(context).alternate,
                                     width: 2.0,
                                   ),
-                                  borderRadius: BorderRadius.circular(8.0),
+                                  borderRadius: BorderRadius.circular(9.0),
                                 ),
                                 focusedBorder: OutlineInputBorder(
                                   borderSide: BorderSide(
                                     color: Color(0xFFFEC739),
                                     width: 2.0,
                                   ),
-                                  borderRadius: BorderRadius.circular(8.0),
+                                  borderRadius: BorderRadius.circular(9.0),
                                 ),
                                 errorBorder: OutlineInputBorder(
                                   borderSide: BorderSide(
                                     color: FlutterFlowTheme.of(context).error,
                                     width: 2.0,
                                   ),
-                                  borderRadius: BorderRadius.circular(8.0),
+                                  borderRadius: BorderRadius.circular(9.0),
                                 ),
                                 focusedErrorBorder: OutlineInputBorder(
                                   borderSide: BorderSide(
                                     color: FlutterFlowTheme.of(context).error,
                                     width: 2.0,
                                   ),
-                                  borderRadius: BorderRadius.circular(8.0),
+                                  borderRadius: BorderRadius.circular(9.0),
                                 ),
                                 contentPadding: EdgeInsets.all(15.0),
                               ),
@@ -213,7 +213,7 @@ class _GalangDanaWidgetState extends State<GalangDanaWidget> {
                               padding: EdgeInsetsDirectional.fromSTEB(
                                   0.0, 16.0, 0.0, 0.0),
                               child: Text(
-                                'NIK',
+                                'NIK:',
                                 style: FlutterFlowTheme.of(context)
                                     .bodyMedium
                                     .override(
@@ -250,28 +250,28 @@ class _GalangDanaWidgetState extends State<GalangDanaWidget> {
                                         FlutterFlowTheme.of(context).alternate,
                                     width: 2.0,
                                   ),
-                                  borderRadius: BorderRadius.circular(8.0),
+                                  borderRadius: BorderRadius.circular(9.0),
                                 ),
                                 focusedBorder: OutlineInputBorder(
                                   borderSide: BorderSide(
                                     color: Color(0xFFFEC739),
                                     width: 2.0,
                                   ),
-                                  borderRadius: BorderRadius.circular(8.0),
+                                  borderRadius: BorderRadius.circular(9.0),
                                 ),
                                 errorBorder: OutlineInputBorder(
                                   borderSide: BorderSide(
                                     color: FlutterFlowTheme.of(context).error,
                                     width: 2.0,
                                   ),
-                                  borderRadius: BorderRadius.circular(8.0),
+                                  borderRadius: BorderRadius.circular(9.0),
                                 ),
                                 focusedErrorBorder: OutlineInputBorder(
                                   borderSide: BorderSide(
                                     color: FlutterFlowTheme.of(context).error,
                                     width: 2.0,
                                   ),
-                                  borderRadius: BorderRadius.circular(8.0),
+                                  borderRadius: BorderRadius.circular(9.0),
                                 ),
                                 contentPadding: EdgeInsets.all(15.0),
                               ),
@@ -329,28 +329,28 @@ class _GalangDanaWidgetState extends State<GalangDanaWidget> {
                                         FlutterFlowTheme.of(context).alternate,
                                     width: 2.0,
                                   ),
-                                  borderRadius: BorderRadius.circular(8.0),
+                                  borderRadius: BorderRadius.circular(9.0),
                                 ),
                                 focusedBorder: OutlineInputBorder(
                                   borderSide: BorderSide(
                                     color: Color(0xFFFEC739),
                                     width: 2.0,
                                   ),
-                                  borderRadius: BorderRadius.circular(8.0),
+                                  borderRadius: BorderRadius.circular(9.0),
                                 ),
                                 errorBorder: OutlineInputBorder(
                                   borderSide: BorderSide(
                                     color: FlutterFlowTheme.of(context).error,
                                     width: 2.0,
                                   ),
-                                  borderRadius: BorderRadius.circular(8.0),
+                                  borderRadius: BorderRadius.circular(9.0),
                                 ),
                                 focusedErrorBorder: OutlineInputBorder(
                                   borderSide: BorderSide(
                                     color: FlutterFlowTheme.of(context).error,
                                     width: 2.0,
                                   ),
-                                  borderRadius: BorderRadius.circular(8.0),
+                                  borderRadius: BorderRadius.circular(9.0),
                                 ),
                                 contentPadding: EdgeInsets.all(15.0),
                               ),
@@ -408,28 +408,28 @@ class _GalangDanaWidgetState extends State<GalangDanaWidget> {
                                         FlutterFlowTheme.of(context).alternate,
                                     width: 2.0,
                                   ),
-                                  borderRadius: BorderRadius.circular(8.0),
+                                  borderRadius: BorderRadius.circular(9.0),
                                 ),
                                 focusedBorder: OutlineInputBorder(
                                   borderSide: BorderSide(
                                     color: Color(0xFFFEC739),
                                     width: 2.0,
                                   ),
-                                  borderRadius: BorderRadius.circular(8.0),
+                                  borderRadius: BorderRadius.circular(9.0),
                                 ),
                                 errorBorder: OutlineInputBorder(
                                   borderSide: BorderSide(
                                     color: FlutterFlowTheme.of(context).error,
                                     width: 2.0,
                                   ),
-                                  borderRadius: BorderRadius.circular(8.0),
+                                  borderRadius: BorderRadius.circular(9.0),
                                 ),
                                 focusedErrorBorder: OutlineInputBorder(
                                   borderSide: BorderSide(
                                     color: FlutterFlowTheme.of(context).error,
                                     width: 2.0,
                                   ),
-                                  borderRadius: BorderRadius.circular(8.0),
+                                  borderRadius: BorderRadius.circular(9.0),
                                 ),
                                 contentPadding: EdgeInsets.all(15.0),
                               ),
@@ -450,7 +450,7 @@ class _GalangDanaWidgetState extends State<GalangDanaWidget> {
                               padding: EdgeInsetsDirectional.fromSTEB(
                                   0.0, 16.0, 0.0, 0.0),
                               child: Text(
-                                'Nama Pemilik Rekening',
+                                'Nama Pemilik Rekening:',
                                 style: FlutterFlowTheme.of(context)
                                     .bodyMedium
                                     .override(
@@ -487,28 +487,28 @@ class _GalangDanaWidgetState extends State<GalangDanaWidget> {
                                         FlutterFlowTheme.of(context).alternate,
                                     width: 2.0,
                                   ),
-                                  borderRadius: BorderRadius.circular(8.0),
+                                  borderRadius: BorderRadius.circular(9.0),
                                 ),
                                 focusedBorder: OutlineInputBorder(
                                   borderSide: BorderSide(
                                     color: Color(0xFFFEC739),
                                     width: 2.0,
                                   ),
-                                  borderRadius: BorderRadius.circular(8.0),
+                                  borderRadius: BorderRadius.circular(9.0),
                                 ),
                                 errorBorder: OutlineInputBorder(
                                   borderSide: BorderSide(
                                     color: FlutterFlowTheme.of(context).error,
                                     width: 2.0,
                                   ),
-                                  borderRadius: BorderRadius.circular(8.0),
+                                  borderRadius: BorderRadius.circular(9.0),
                                 ),
                                 focusedErrorBorder: OutlineInputBorder(
                                   borderSide: BorderSide(
                                     color: FlutterFlowTheme.of(context).error,
                                     width: 2.0,
                                   ),
-                                  borderRadius: BorderRadius.circular(8.0),
+                                  borderRadius: BorderRadius.circular(9.0),
                                 ),
                                 contentPadding: EdgeInsets.all(15.0),
                               ),
@@ -528,7 +528,7 @@ class _GalangDanaWidgetState extends State<GalangDanaWidget> {
                               padding: EdgeInsetsDirectional.fromSTEB(
                                   0.0, 16.0, 0.0, 0.0),
                               child: Text(
-                                'Deskripsi Penggalangan',
+                                'Deskripsi Penggalangan:',
                                 style: FlutterFlowTheme.of(context)
                                     .bodyMedium
                                     .override(
@@ -566,28 +566,28 @@ class _GalangDanaWidgetState extends State<GalangDanaWidget> {
                                         FlutterFlowTheme.of(context).alternate,
                                     width: 2.0,
                                   ),
-                                  borderRadius: BorderRadius.circular(8.0),
+                                  borderRadius: BorderRadius.circular(9.0),
                                 ),
                                 focusedBorder: OutlineInputBorder(
                                   borderSide: BorderSide(
                                     color: Color(0xFFFEC739),
                                     width: 2.0,
                                   ),
-                                  borderRadius: BorderRadius.circular(8.0),
+                                  borderRadius: BorderRadius.circular(9.0),
                                 ),
                                 errorBorder: OutlineInputBorder(
                                   borderSide: BorderSide(
                                     color: FlutterFlowTheme.of(context).error,
                                     width: 2.0,
                                   ),
-                                  borderRadius: BorderRadius.circular(8.0),
+                                  borderRadius: BorderRadius.circular(9.0),
                                 ),
                                 focusedErrorBorder: OutlineInputBorder(
                                   borderSide: BorderSide(
                                     color: FlutterFlowTheme.of(context).error,
                                     width: 2.0,
                                   ),
-                                  borderRadius: BorderRadius.circular(8.0),
+                                  borderRadius: BorderRadius.circular(9.0),
                                 ),
                                 contentPadding: EdgeInsets.all(15.0),
                               ),
@@ -645,28 +645,28 @@ class _GalangDanaWidgetState extends State<GalangDanaWidget> {
                                         FlutterFlowTheme.of(context).alternate,
                                     width: 2.0,
                                   ),
-                                  borderRadius: BorderRadius.circular(8.0),
+                                  borderRadius: BorderRadius.circular(9.0),
                                 ),
                                 focusedBorder: OutlineInputBorder(
                                   borderSide: BorderSide(
                                     color: Color(0xFFFEC739),
                                     width: 2.0,
                                   ),
-                                  borderRadius: BorderRadius.circular(8.0),
+                                  borderRadius: BorderRadius.circular(9.0),
                                 ),
                                 errorBorder: OutlineInputBorder(
                                   borderSide: BorderSide(
                                     color: FlutterFlowTheme.of(context).error,
                                     width: 2.0,
                                   ),
-                                  borderRadius: BorderRadius.circular(8.0),
+                                  borderRadius: BorderRadius.circular(9.0),
                                 ),
                                 focusedErrorBorder: OutlineInputBorder(
                                   borderSide: BorderSide(
                                     color: FlutterFlowTheme.of(context).error,
                                     width: 2.0,
                                   ),
-                                  borderRadius: BorderRadius.circular(8.0),
+                                  borderRadius: BorderRadius.circular(9.0),
                                 ),
                                 contentPadding: EdgeInsets.all(15.0),
                               ),
@@ -768,7 +768,7 @@ class _GalangDanaWidgetState extends State<GalangDanaWidget> {
                                   decoration: BoxDecoration(
                                     color: FlutterFlowTheme.of(context)
                                         .primaryBackground,
-                                    borderRadius: BorderRadius.circular(8.0),
+                                    borderRadius: BorderRadius.circular(9.0),
                                     border: Border.all(
                                       color: FlutterFlowTheme.of(context)
                                           .alternate,
@@ -795,7 +795,7 @@ class _GalangDanaWidgetState extends State<GalangDanaWidget> {
                                           _model.uploadedFileUrl != '')
                                         ClipRRect(
                                           borderRadius:
-                                              BorderRadius.circular(8.0),
+                                              BorderRadius.circular(9.0),
                                           child: Image.network(
                                             _model.uploadedFileUrl,
                                             width: 300.0,
@@ -892,7 +892,7 @@ class _GalangDanaWidgetState extends State<GalangDanaWidget> {
                                   decoration: BoxDecoration(
                                     color: FlutterFlowTheme.of(context)
                                         .primaryBackground,
-                                    borderRadius: BorderRadius.circular(8.0),
+                                    borderRadius: BorderRadius.circular(9.0),
                                     border: Border.all(
                                       color: FlutterFlowTheme.of(context)
                                           .alternate,
@@ -985,7 +985,7 @@ class _GalangDanaWidgetState extends State<GalangDanaWidget> {
                                         return AlertDialog(
                                           title: Text('Success'),
                                           content: Text(
-                                              'Berhasil Dikirim, Tunggu Informasi selanjutnya melalu email'),
+                                              'Berhasil Dikirim, Silakan Tunggu Informasi selanjutnya melalu email'),
                                           actions: [
                                             TextButton(
                                               onPressed: () => Navigator.pop(
@@ -1004,7 +1004,7 @@ class _GalangDanaWidgetState extends State<GalangDanaWidget> {
                                       builder: (alertDialogContext) {
                                         return AlertDialog(
                                           title: Text('Failed'),
-                                          content: Text('Form Kurang Lengkap'),
+                                          content: Text('Form Anda Kurang Lengkap'),
                                           actions: [
                                             TextButton(
                                               onPressed: () => Navigator.pop(
@@ -1038,7 +1038,7 @@ class _GalangDanaWidgetState extends State<GalangDanaWidget> {
                                     color: Colors.transparent,
                                     width: 1.0,
                                   ),
-                                  borderRadius: BorderRadius.circular(8.0),
+                                  borderRadius: BorderRadius.circular(9.0),
                                 ),
                               ),
                             ),

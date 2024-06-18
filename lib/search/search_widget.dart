@@ -358,7 +358,7 @@ class _SearchWidgetState extends State<SearchWidget> {
                                                                             5.0,
                                                                             5.0),
                                                                     child: Text(
-                                                                      'Terkumpul',
+                                                                      'Dana Terkumpul',
                                                                       style: FlutterFlowTheme.of(
                                                                               context)
                                                                           .bodyMedium
@@ -435,7 +435,7 @@ class _SearchWidgetState extends State<SearchWidget> {
                                                                         color: FlutterFlowTheme.of(context)
                                                                             .primaryText,
                                                                         fontSize:
-                                                                            18.0,
+                                                                            20.0,
                                                                         letterSpacing:
                                                                             0.0,
                                                                       ),

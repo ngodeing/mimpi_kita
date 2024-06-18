@@ -162,7 +162,7 @@ class _Auth2WidgetState extends State<Auth2Widget>
                       style: FlutterFlowTheme.of(context).displaySmall.override(
                             fontFamily: 'Plus Jakarta Sans',
                             color: Colors.black,
-                            fontSize: 36.0,
+                            fontSize: 40.0,
                             letterSpacing: 0.0,
                             fontWeight: FontWeight.bold,
                           ),
@@ -221,7 +221,7 @@ class _Auth2WidgetState extends State<Auth2Widget>
                                         .override(
                                           fontFamily: 'Plus Jakarta Sans',
                                           color: Colors.white,
-                                          fontSize: 18.0,
+                                          fontSize: 17.0,
                                           letterSpacing: 0.0,
                                           fontWeight: FontWeight.w600,
                                         ),
@@ -242,7 +242,7 @@ class _Auth2WidgetState extends State<Auth2Widget>
                                         text: 'Daftar',
                                       ),
                                       Tab(
-                                        text: 'Masuk',
+                                        text: 'Login',
                                       ),
                                     ],
                                     controller: _model.tabBarController,
@@ -291,7 +291,7 @@ class _Auth2WidgetState extends State<Auth2Widget>
                                                           color: FlutterFlowTheme
                                                                   .of(context)
                                                               .primaryText,
-                                                          fontSize: 24.0,
+                                                          fontSize: 26.0,
                                                           letterSpacing: 0.0,
                                                           fontWeight:
                                                               FontWeight.bold,
@@ -302,7 +302,7 @@ class _Auth2WidgetState extends State<Auth2Widget>
                                                     .fromSTEB(
                                                         0.0, 4.0, 0.0, 24.0),
                                                 child: Text(
-                                                  'Mari mulai mendaftar dengan mengisi formulir dibawah ini',
+                                                  'Silakan mendaftar dengan mengisi formulir dibawah ini',
                                                   textAlign: TextAlign.start,
                                                   style: FlutterFlowTheme.of(
                                                           context)
@@ -312,7 +312,7 @@ class _Auth2WidgetState extends State<Auth2Widget>
                                                             'Plus Jakarta Sans',
                                                         color:
                                                             Color(0xFF57636C),
-                                                        fontSize: 14.0,
+                                                        fontSize: 13.0,
                                                         letterSpacing: 0.0,
                                                         fontWeight:
                                                             FontWeight.w500,
@@ -346,7 +346,7 @@ class _Auth2WidgetState extends State<Auth2Widget>
                                                                     'Plus Jakarta Sans',
                                                                 color: Color(
                                                                     0xFF57636C),
-                                                                fontSize: 16.0,
+                                                                fontSize: 15.0,
                                                                 letterSpacing:
                                                                     0.0,
                                                                 fontWeight:
@@ -414,7 +414,7 @@ class _Auth2WidgetState extends State<Auth2Widget>
                                                           color: FlutterFlowTheme
                                                                   .of(context)
                                                               .primaryText,
-                                                          fontSize: 16.0,
+                                                          fontSize: 15.0,
                                                           letterSpacing: 0.0,
                                                           fontWeight:
                                                               FontWeight.w500,
@@ -455,7 +455,7 @@ class _Auth2WidgetState extends State<Auth2Widget>
                                                                     'Plus Jakarta Sans',
                                                                 color: Color(
                                                                     0xFF57636C),
-                                                                fontSize: 16.0,
+                                                                fontSize: 15.0,
                                                                 letterSpacing:
                                                                     0.0,
                                                                 fontWeight:
@@ -544,7 +544,7 @@ class _Auth2WidgetState extends State<Auth2Widget>
                                                           color: FlutterFlowTheme
                                                                   .of(context)
                                                               .primaryText,
-                                                          fontSize: 16.0,
+                                                          fontSize: 15.0,
                                                           letterSpacing: 0.0,
                                                           fontWeight:
                                                               FontWeight.w500,
@@ -579,7 +579,7 @@ class _Auth2WidgetState extends State<Auth2Widget>
                                                                     'Readex Pro',
                                                                 color: Color(
                                                                     0xFF57636C),
-                                                                fontSize: 16.0,
+                                                                fontSize: 15.0,
                                                                 letterSpacing:
                                                                     0.0,
                                                               ),
@@ -732,7 +732,7 @@ class _Auth2WidgetState extends State<Auth2Widget>
                                                                     'Plus Jakarta Sans',
                                                                 color: Colors
                                                                     .black,
-                                                                fontSize: 16.0,
+                                                                fontSize: 15.0,
                                                                 letterSpacing:
                                                                     0.0,
                                                                 fontWeight:
@@ -795,7 +795,7 @@ class _Auth2WidgetState extends State<Auth2Widget>
                                                             FlutterFlowTheme.of(
                                                                     context)
                                                                 .primaryText,
-                                                        fontSize: 24.0,
+                                                        fontSize: 26.0,
                                                         letterSpacing: 0.0,
                                                         fontWeight:
                                                             FontWeight.bold,
@@ -806,7 +806,7 @@ class _Auth2WidgetState extends State<Auth2Widget>
                                                       .fromSTEB(
                                                           0.0, 4.0, 0.0, 24.0),
                                                   child: Text(
-                                                    'Isi informasi berikut untuk masuk ke akun anda',
+                                                    'Isi informasi berikut untuk login ke akun anda',
                                                     textAlign: TextAlign.start,
                                                     style: FlutterFlowTheme.of(
                                                             context)
@@ -816,7 +816,7 @@ class _Auth2WidgetState extends State<Auth2Widget>
                                                               'Plus Jakarta Sans',
                                                           color:
                                                               Color(0xFF57636C),
-                                                          fontSize: 14.0,
+                                                          fontSize: 13.0,
                                                           letterSpacing: 0.0,
                                                           fontWeight:
                                                               FontWeight.w500,
@@ -852,7 +852,7 @@ class _Auth2WidgetState extends State<Auth2Widget>
                                                                   color: Color(
                                                                       0xFF57636C),
                                                                   fontSize:
-                                                                      16.0,
+                                                                      15.0,
                                                                   letterSpacing:
                                                                       0.0,
                                                                   fontWeight:
@@ -933,7 +933,7 @@ class _Auth2WidgetState extends State<Auth2Widget>
                                                             color: FlutterFlowTheme
                                                                     .of(context)
                                                                 .primaryText,
-                                                            fontSize: 16.0,
+                                                            fontSize: 15.0,
                                                             letterSpacing: 0.0,
                                                             fontWeight:
                                                                 FontWeight.w500,
@@ -977,7 +977,7 @@ class _Auth2WidgetState extends State<Auth2Widget>
                                                                   color: Color(
                                                                       0xFF57636C),
                                                                   fontSize:
-                                                                      16.0,
+                                                                      15.0,
                                                                   letterSpacing:
                                                                       0.0,
                                                                   fontWeight:
@@ -1079,7 +1079,7 @@ class _Auth2WidgetState extends State<Auth2Widget>
                                                             color: FlutterFlowTheme
                                                                     .of(context)
                                                                 .primaryText,
-                                                            fontSize: 16.0,
+                                                            fontSize: 15.0,
                                                             letterSpacing: 0.0,
                                                             fontWeight:
                                                                 FontWeight.w500,
@@ -1123,7 +1123,7 @@ class _Auth2WidgetState extends State<Auth2Widget>
                                                             'HomePage',
                                                             context.mounted);
                                                       },
-                                                      text: 'Masuk',
+                                                      text: 'Login',
                                                       options: FFButtonOptions(
                                                         width: 230.0,
                                                         height: 52.0,
@@ -1153,7 +1153,7 @@ class _Auth2WidgetState extends State<Auth2Widget>
                                                                   color: Colors
                                                                       .black,
                                                                   fontSize:
-                                                                      16.0,
+                                                                      15.0,
                                                                   letterSpacing:
                                                                       0.0,
                                                                   fontWeight:

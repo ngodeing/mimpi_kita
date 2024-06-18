@@ -154,7 +154,7 @@ class _ProfileWidgetState extends State<ProfileWidget> {
                                                         context.pushNamed(
                                                             'EditProfile');
                                                       },
-                                                      text: 'Edit Akun',
+                                                      text: 'Edit Profile',
                                                       options: FFButtonOptions(
                                                         width: 150.0,
                                                         height: 40.0,

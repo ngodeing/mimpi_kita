@@ -107,8 +107,8 @@ class _BeasiswaWidgetState extends State<BeasiswaWidget> {
                             borderRadius: BorderRadius.only(
                               bottomLeft: Radius.circular(0.0),
                               bottomRight: Radius.circular(0.0),
-                              topLeft: Radius.circular(30.0),
-                              topRight: Radius.circular(30.0),
+                              topLeft: Radius.circular(35.0),
+                              topRight: Radius.circular(35.0),
                             ),
                           ),
                           child: Padding(

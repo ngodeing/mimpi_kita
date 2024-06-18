@@ -608,7 +608,7 @@ class _GalangDanaWidgetState extends State<GalangDanaWidget> {
                               padding: EdgeInsetsDirectional.fromSTEB(
                                   0.0, 16.0, 0.0, 0.0),
                               child: Text(
-                                'Target Donasi',
+                                'Target Donasi (Jangan pakai titik atau koma)',
                                 style: FlutterFlowTheme.of(context)
                                     .bodyMedium
                                     .override(

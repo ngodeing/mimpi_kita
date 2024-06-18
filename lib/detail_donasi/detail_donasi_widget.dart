@@ -108,7 +108,7 @@ class _DetailDonasiWidgetState extends State<DetailDonasiWidget> {
                           padding: EdgeInsetsDirectional.fromSTEB(
                               0.0, 30.0, 0.0, 0.0),
                           child: Text(
-                            'Kamu Donasi Sebesar',
+                            'Kamu Donasi Senilai',
                             style: FlutterFlowTheme.of(context)
                                 .bodyMedium
                                 .override(

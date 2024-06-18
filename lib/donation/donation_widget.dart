@@ -124,7 +124,7 @@ class _DonationWidgetState extends State<DonationWidget> {
                               padding: EdgeInsetsDirectional.fromSTEB(
                                   0.0, 10.0, 0.0, 0.0),
                               child: Text(
-                                'Masukkan Nominal',
+                                'Masukkan Nominal Donasi:',
                                 style: FlutterFlowTheme.of(context)
                                     .bodyMedium
                                     .override(
@@ -203,7 +203,7 @@ class _DonationWidgetState extends State<DonationWidget> {
                               padding: EdgeInsetsDirectional.fromSTEB(
                                   0.0, 16.0, 0.0, 0.0),
                               child: Text(
-                                'Pesan Singkat',
+                                'Pesan Singkat:',
                                 style: FlutterFlowTheme.of(context)
                                     .bodyMedium
                                     .override(
@@ -283,7 +283,7 @@ class _DonationWidgetState extends State<DonationWidget> {
                               padding: EdgeInsetsDirectional.fromSTEB(
                                   0.0, 16.0, 0.0, 0.0),
                               child: Text(
-                                'Pilih Metode Pembayaran',
+                                'Pilih Metode Pembayaran:',
                                 style: FlutterFlowTheme.of(context)
                                     .bodyMedium
                                     .override(
@@ -460,7 +460,7 @@ class _DonationWidgetState extends State<DonationWidget> {
                                         }
                                       }
                                     },
-                                    text: 'Bayar Sekarang',
+                                    text: 'Donasi Sekarang',
                                     options: FFButtonOptions(
                                       width: double.infinity,
                                       height: 40.0,

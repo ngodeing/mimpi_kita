@@ -110,7 +110,7 @@ class _ProfileWidgetState extends State<ProfileWidget> {
                                                   .override(
                                                     fontFamily: 'Readex Pro',
                                                     color: Colors.black,
-                                                    fontSize: 20.0,
+                                                    fontSize: 19.0,
                                                     letterSpacing: 0.0,
                                                     fontWeight: FontWeight.bold,
                                                   ),
@@ -156,8 +156,8 @@ class _ProfileWidgetState extends State<ProfileWidget> {
                                                       },
                                                       text: 'Edit Profile',
                                                       options: FFButtonOptions(
-                                                        width: 150.0,
-                                                        height: 40.0,
+                                                        width: 130.0,
+                                                        height: 20.0,
                                                         padding:
                                                             EdgeInsetsDirectional
                                                                 .fromSTEB(
@@ -196,7 +196,7 @@ class _ProfileWidgetState extends State<ProfileWidget> {
                                                         ),
                                                         borderRadius:
                                                             BorderRadius
-                                                                .circular(8.0),
+                                                                .circular(9.0),
                                                       ),
                                                     ),
                                                   ),
@@ -227,8 +227,8 @@ class _ProfileWidgetState extends State<ProfileWidget> {
                                                       },
                                                       text: 'Keluar',
                                                       options: FFButtonOptions(
-                                                        width: 150.0,
-                                                        height: 40.0,
+                                                        width: 130.0,
+                                                        height: 20.0,
                                                         padding:
                                                             EdgeInsetsDirectional
                                                                 .fromSTEB(
@@ -267,7 +267,7 @@ class _ProfileWidgetState extends State<ProfileWidget> {
                                                         ),
                                                         borderRadius:
                                                             BorderRadius
-                                                                .circular(8.0),
+                                                                .circular(9.0),
                                                       ),
                                                     ),
                                                   ),

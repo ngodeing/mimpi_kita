@@ -340,7 +340,7 @@ class _EditProfileWidgetState extends State<EditProfileWidget> {
                                       return AlertDialog(
                                         title: Text('Success'),
                                         content: Text(
-                                            'Informasi akun berhasil dirubah'),
+                                            'Informasi akun berhasil diedit'),
                                         actions: [
                                           TextButton(
                                             onPressed: () => Navigator.pop(

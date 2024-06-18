@@ -111,7 +111,7 @@ class _DonationWidgetState extends State<DonationWidget> {
                                     .bodyMedium
                                     .override(
                                       fontFamily: 'Readex Pro',
-                                      fontSize: 32.0,
+                                      fontSize: 28.0,
                                       letterSpacing: 0.0,
                                       fontWeight: FontWeight.bold,
                                     ),
@@ -301,7 +301,7 @@ class _DonationWidgetState extends State<DonationWidget> {
                               child: FlutterFlowDropDown<String>(
                                 controller: _model.dropDownValueController ??=
                                     FormFieldController<String>(null),
-                                options: ['Gopay', 'Dana', 'ShoopePay'],
+                                options: ['Gopay', 'Dana', 'ShopeePay'],
                                 onChanged: (val) =>
                                     setState(() => _model.dropDownValue = val),
                                 width: 300.0,

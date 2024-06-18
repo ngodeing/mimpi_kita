@@ -230,7 +230,7 @@ class _DetailWidgetState extends State<DetailWidget> {
                                 padding: EdgeInsetsDirectional.fromSTEB(
                                     0.0, 10.0, 0.0, 0.0),
                                 child: Text(
-                                  'Tenggat ',
+                                  'Tenggat Waktu',
                                   style: FlutterFlowTheme.of(context)
                                       .bodyMedium
                                       .override(

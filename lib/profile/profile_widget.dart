@@ -485,7 +485,7 @@ class _ProfileWidgetState extends State<ProfileWidget> {
                                                             FlutterFlowTheme.of(
                                                                     context)
                                                                 .primaryText,
-                                                        fontSize: 18.0,
+                                                        fontSize: 20.0,
                                                         letterSpacing: 0.0,
                                                       ),
                                                 ),

@@ -106,7 +106,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                 padding: EdgeInsetsDirectional.fromSTEB(
                                     15.0, 0.0, 0.0, 0.0),
                                 child: Text(
-                                  'Cari Donasi...',
+                                  'Cari Penggalangan...',
                                   style: FlutterFlowTheme.of(context)
                                       .bodyMedium
                                       .override(
@@ -518,7 +518,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                         padding: EdgeInsetsDirectional.fromSTEB(
                                             0.0, 25.0, 0.0, 0.0),
                                         child: Text(
-                                          'Donasi Terbaru',
+                                          'Penggalangan Terbaru',
                                           style: FlutterFlowTheme.of(context)
                                               .bodyMedium
                                               .override(

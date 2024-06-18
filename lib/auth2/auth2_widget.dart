@@ -783,7 +783,7 @@ class _Auth2WidgetState extends State<Auth2Widget>
                                                     ),
                                                   ),
                                                 Text(
-                                                  'Selamat Datang Kembali',
+                                                  'Masuk Akun',
                                                   textAlign: TextAlign.start,
                                                   style: FlutterFlowTheme.of(
                                                           context)

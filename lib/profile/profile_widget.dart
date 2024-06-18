@@ -225,7 +225,7 @@ class _ProfileWidgetState extends State<ProfileWidget> {
                                                             'Auth2',
                                                             context.mounted);
                                                       },
-                                                      text: 'Logout',
+                                                      text: 'Keluar',
                                                       options: FFButtonOptions(
                                                         width: 130.0,
                                                         height: 20.0,
@@ -313,7 +313,7 @@ class _ProfileWidgetState extends State<ProfileWidget> {
                                   .bodyMedium
                                   .override(
                                     fontFamily: 'Readex Pro',
-                                    fontSize: 20.0,
+                                    fontSize: 22.0,
                                     letterSpacing: 0.0,
                                     fontWeight: FontWeight.w600,
                                   ),

@@ -90,7 +90,7 @@ class _ApprovedDonationWidgetState extends State<ApprovedDonationWidget> {
                       alignment: AlignmentDirectional(-1.0, 0.0),
                       child: Padding(
                         padding: EdgeInsetsDirectional.fromSTEB(
-                            15.0, 40.0, 0.0, 0.0),
+                            20.0, 40.0, 0.0, 0.0),
                         child: Text(
                           'Penggalangan Tersedia',
                           style: FlutterFlowTheme.of(context)
@@ -98,7 +98,7 @@ class _ApprovedDonationWidgetState extends State<ApprovedDonationWidget> {
                               .override(
                                 fontFamily: 'Readex Pro',
                                 color: FlutterFlowTheme.of(context).primaryText,
-                                fontSize: 26.0,
+                                fontSize: 28.0,
                                 letterSpacing: 0.0,
                                 fontWeight: FontWeight.bold,
                               ),
@@ -166,7 +166,7 @@ class _ApprovedDonationWidgetState extends State<ApprovedDonationWidget> {
                                               .override(
                                                 fontFamily: 'Readex Pro',
                                                 color: Color(0xFF818898),
-                                                fontSize: 16.0,
+                                                fontSize: 18.0,
                                                 letterSpacing: 0.0,
                                                 fontWeight: FontWeight.w600,
                                               ),
@@ -323,7 +323,7 @@ class _ApprovedDonationWidgetState extends State<ApprovedDonationWidget> {
                                                                           color:
                                                                               Color(0xFFFEC739),
                                                                           fontSize:
-                                                                              14.0,
+                                                                              13.0,
                                                                           letterSpacing:
                                                                               0.0,
                                                                         ),
@@ -355,7 +355,7 @@ class _ApprovedDonationWidgetState extends State<ApprovedDonationWidget> {
                                                                           color:
                                                                               Color(0xFFFEC739),
                                                                           fontSize:
-                                                                              14.0,
+                                                                              13.0,
                                                                           letterSpacing:
                                                                               0.0,
                                                                         ),
@@ -389,7 +389,7 @@ class _ApprovedDonationWidgetState extends State<ApprovedDonationWidget> {
                                                                               context)
                                                                           .primaryText,
                                                                       fontSize:
-                                                                          18.0,
+                                                                          20.0,
                                                                       letterSpacing:
                                                                           0.0,
                                                                     ),
@@ -424,7 +424,7 @@ class _ApprovedDonationWidgetState extends State<ApprovedDonationWidget> {
                                                                           color:
                                                                               Color(0xFF818898),
                                                                           fontSize:
-                                                                              12.0,
+                                                                              13.0,
                                                                           letterSpacing:
                                                                               0.0,
                                                                         ),
@@ -457,7 +457,7 @@ class _ApprovedDonationWidgetState extends State<ApprovedDonationWidget> {
                                                                           color:
                                                                               Color(0xFF818898),
                                                                           fontSize:
-                                                                              12.0,
+                                                                              13.0,
                                                                           letterSpacing:
                                                                               0.0,
                                                                         ),

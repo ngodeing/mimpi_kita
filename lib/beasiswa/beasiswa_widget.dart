@@ -107,8 +107,8 @@ class _BeasiswaWidgetState extends State<BeasiswaWidget> {
                             borderRadius: BorderRadius.only(
                               bottomLeft: Radius.circular(0.0),
                               bottomRight: Radius.circular(0.0),
-                              topLeft: Radius.circular(40.0),
-                              topRight: Radius.circular(40.0),
+                              topLeft: Radius.circular(35.0),
+                              topRight: Radius.circular(35.0),
                             ),
                           ),
                           child: Padding(
@@ -160,7 +160,7 @@ class _BeasiswaWidgetState extends State<BeasiswaWidget> {
                                                   FlutterFlowTheme.of(context)
                                                       .primaryBackground,
                                               borderRadius:
-                                                  BorderRadius.circular(10.0),
+                                                  BorderRadius.circular(9.0),
                                               border: Border.all(
                                                 color: Color(0xFF818898),
                                                 width: 1.0,
@@ -177,9 +177,9 @@ class _BeasiswaWidgetState extends State<BeasiswaWidget> {
                                                     bottomRight:
                                                         Radius.circular(0.0),
                                                     topLeft:
-                                                        Radius.circular(10.0),
+                                                        Radius.circular(9.0),
                                                     topRight:
-                                                        Radius.circular(10.0),
+                                                        Radius.circular(9.0),
                                                   ),
                                                   child: Image.asset(
                                                     'assets/images/1522298726_Tentang_Kami_-_Tentang_DBP_preview.jpg',
@@ -287,7 +287,7 @@ class _BeasiswaWidgetState extends State<BeasiswaWidget> {
                                                   FlutterFlowTheme.of(context)
                                                       .primaryBackground,
                                               borderRadius:
-                                                  BorderRadius.circular(10.0),
+                                                  BorderRadius.circular(9.0),
                                               border: Border.all(
                                                 color: Color(0xFF818898),
                                                 width: 1.0,
@@ -304,9 +304,9 @@ class _BeasiswaWidgetState extends State<BeasiswaWidget> {
                                                     bottomRight:
                                                         Radius.circular(0.0),
                                                     topLeft:
-                                                        Radius.circular(10.0),
+                                                        Radius.circular(9.0),
                                                     topRight:
-                                                        Radius.circular(10.0),
+                                                        Radius.circular(9.0),
                                                   ),
                                                   child: Image.asset(
                                                     'assets/images/1522298726_Tentang_Kami_-_Tentang_DBP_preview.jpg',

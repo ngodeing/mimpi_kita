@@ -117,7 +117,7 @@ class _EditProfileWidgetState extends State<EditProfileWidget> {
                               padding: EdgeInsetsDirectional.fromSTEB(
                                   0.0, 16.0, 0.0, 0.0),
                               child: Text(
-                                'Nama Akun',
+                                'Nama Akun:',
                                 style: FlutterFlowTheme.of(context)
                                     .bodyMedium
                                     .override(
@@ -197,7 +197,7 @@ class _EditProfileWidgetState extends State<EditProfileWidget> {
                               padding: EdgeInsetsDirectional.fromSTEB(
                                   0.0, 16.0, 0.0, 0.0),
                               child: Text(
-                                'Foto Profile',
+                                'Foto Profile:',
                                 style: FlutterFlowTheme.of(context)
                                     .bodyMedium
                                     .override(
@@ -354,7 +354,7 @@ class _EditProfileWidgetState extends State<EditProfileWidget> {
 
                                   context.pushNamed('Profile');
                                 },
-                                text: 'Ubah',
+                                text: 'Simpan Perubahan',
                                 options: FFButtonOptions(
                                   width: double.infinity,
                                   height: 40.0,

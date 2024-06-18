@@ -292,7 +292,7 @@ class _GalangDanaWidgetState extends State<GalangDanaWidget> {
                               padding: EdgeInsetsDirectional.fromSTEB(
                                   0.0, 16.0, 0.0, 0.0),
                               child: Text(
-                                'No. Telp',
+                                'Nomor Telepon',
                                 style: FlutterFlowTheme.of(context)
                                     .bodyMedium
                                     .override(

@@ -543,7 +543,7 @@ class _SearchWidgetState extends State<SearchWidget> {
                                                             .text !=
                                                         ''
                                                 ? _model.loading
-                                                : 'Hasil Tidak Ditemukan',
+                                                : 'Pencarian Tidak Ditemukan',
                                             style: FlutterFlowTheme.of(context)
                                                 .bodyMedium
                                                 .override(
